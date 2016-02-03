@@ -1,0 +1,1 @@
+CORDOVA_PLUGIN_FILE_TRANSFER_OTHER_LDFLAGS = -framework "AssetsLibrary"
